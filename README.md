@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi, I'm Bumi 👋
 
-<!--
-**thebcodes/thebcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>  👩🏽‍💻Cybersecurity Projects:</h2>
+
+ My Google Cybersecurity Journey on Coursera
+
+<h2> - Certification </h2>
+-  [Google Cybersecurity] (https://coursera.org/share/8407a3925f53cc48e9108731a4cd9b35)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+Conducting a security audit
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
